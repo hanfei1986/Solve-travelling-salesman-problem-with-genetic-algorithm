@@ -4,7 +4,9 @@ The travelling salesman problem (TSP) asks the following question: "Given a list
 
 The origin and destination cities are the same:
 
-![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-genetic-algorithm/assets/59255164/8121437e-8bd1-4b29-a8b7-5a227cb90aff)
+![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-genetic-algorithm/assets/59255164/24e77572-2c48-49f9-8f4f-a756a959e392)
+
+![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-genetic-algorithm/assets/59255164/289b3ab6-8e4f-48b0-ab4b-21f62da5d643)
 
 The origin and destination cities are different ones:
 
