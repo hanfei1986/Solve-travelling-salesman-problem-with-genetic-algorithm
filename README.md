@@ -10,9 +10,10 @@ The origin and destination cities are the same:
 
 The origin and destination cities are different ones:
 
-![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-genetic-algorithm/assets/59255164/3c2344c8-7cdc-4616-9a2d-41173e8f72aa)
+![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-genetic-algorithm/assets/59255164/ace95562-3eeb-42af-9d5f-c5e7cfe58355)
 
-![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-genetic-algorithm/assets/59255164/e31357a2-4f5d-47fb-8ebe-f44ef78759b3)
+![image](https://github.com/hanfei1986/Solve-travelling-salesman-problem-with-genetic-algorithm/assets/59255164/dd6e464c-f88b-4d6e-9e9e-3f488901dc6b)
+
 
 
 
